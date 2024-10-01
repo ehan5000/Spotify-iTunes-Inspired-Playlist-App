@@ -1,0 +1,39 @@
+/* Add your existing styles and the following */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lightslategray;
+}
+
+.playlist-div, .search-div, .matching-div{
+    margin-bottom: 20px;
+    color: white;
+}
+
+#submit_button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+th, td {
+    border: 1px solid #00e1ff;
+    text-align: center;
+    padding: 8px;
+}
+
+img {
+    width: 50px;
+    height: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#submit_button:hover {
+    background-color: darkblue;
+}
