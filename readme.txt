@@ -1,5 +1,5 @@
 Ehan Hassan
-101287309
+Assignment done in Comp2406 by LD Nel.
 
 Install instructions: 
 Cd into the directory with server.js and use:
